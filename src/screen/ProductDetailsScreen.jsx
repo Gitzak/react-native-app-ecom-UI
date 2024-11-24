@@ -232,6 +232,6 @@ const styles = StyleSheet.create({
     fontFamily     : fontFamily.Regular,
     fontSize       : fontSize.md,
     paddingVertical: spacing.xs,
-    paddingBottom  : 200,
+    paddingBottom  : 20,
   },
 });

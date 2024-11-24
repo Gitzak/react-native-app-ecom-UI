@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   imageWrapper: {
     borderRadius: 12,
-    backgroundColor: '#FFC8B7',
+    backgroundColor: '#EBEAFF',
     margin: spacing.sm,
   },
   productImage: {

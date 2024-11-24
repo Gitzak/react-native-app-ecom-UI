@@ -65,7 +65,7 @@ const HomeScreen = () => {
         }}
         contentContainerStyle={{
           padding: spacing.md,
-          paddingBottom: 500,
+          paddingBottom: 20,
         }}
         showsVerticalScrollIndicator={false}
       />
